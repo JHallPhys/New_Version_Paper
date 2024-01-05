@@ -1,0 +1,18 @@
+\providecommand{\newblock}{}
+\begin{thebibliography}{1}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{{\tt #1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\providecommand{\eprint}[2][]{\url{#2}}
+% Bibliography created with iopart-num v2.1
+% /biblio/bibtex/contrib/iopart-num
+
+\bibitem{Henning_2004_QCC}
+Schomerus H and Tworzyd\l{}o J 2004 {\em Phys. Rev. Lett.\/} {\bf 93}(15)
+  154102 \urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevLett.93.154102}
+
+\bibitem{Henning_2010_frac_weyl}
+Kopp M and Schomerus H 2010 {\em Phys. Rev. E\/} {\bf 81}(2) 026208
+  \urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevE.81.026208}
+
+\end{thebibliography}
